@@ -1,1 +1,1 @@
-# vis-2025-spring
+Material used in 2025 Spring VIS class
